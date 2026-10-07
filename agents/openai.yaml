@@ -1,0 +1,4 @@
+interface:
+  display_name: "ARPES PNG Export"
+  short_description: "Load ARPES data and export a PNG"
+  default_prompt: "Use $arpes-png-export to render this ARPES data file as a PNG."
